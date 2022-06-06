@@ -1,1 +1,3 @@
-# cervecerias
+# Cervecerias
+
+Simple API REST demo
